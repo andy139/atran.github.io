@@ -4757,8 +4757,8 @@ input, select, textarea {
 
 
 #container {
-    zoom: 0.4;
-    -moz-transform: scale(0.4);
+    zoom: 0.25;
+    -moz-transform: scale(0.25);
 }
 
 #logo {
