@@ -4753,3 +4753,32 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+
+
+#container {
+    zoom: 0.4;
+    -moz-transform: scale(0.4);
+}
+
+#logo {
+  width: 10vh;
+  height: 10vh;
+  background-color: white;
+  border-radius: 2vh;
+  display: flex;
+	justify-content: center;
+	align-items: center;
+	transform: rotate(45deg);
+
+}
+
+#logo-text {
+	font-family: 'Exo';
+	/* position: relative; */
+	color: C8ECE9;
+	transform: rotate(-45deg);
+	font-size: 9vh;
+	color: #2e3842;
+
+}
