@@ -4,6 +4,10 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+// html2canvas(document.querySelector("#container")).then((canvas) => {
+//   document.body.appendChild(canvas);
+// });
+
 
 (function($) {
 
@@ -82,3 +86,9 @@
 		}
 
 })(jQuery);
+
+
+
+html2canvas(document.querySelector("#logo")).then(canvas => {
+	document.body.appendChild(canvas)
+});
