@@ -87,8 +87,3 @@
 
 })(jQuery);
 
-
-
-html2canvas(document.querySelector("#logo")).then(canvas => {
-	document.body.appendChild(canvas)
-});
