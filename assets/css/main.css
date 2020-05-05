@@ -4387,7 +4387,9 @@ input, select, textarea {
 			line-height: 1em;
 	
 		}
-
+.spacing1 {
+	margin-left: 20px;
+}
 			#banner p a {
 				color: inherit;
 			}
