@@ -4515,6 +4515,7 @@ input, select, textarea {
 		display: -ms-flex;
 		display: flex;
 		max-width: 45em;
+		align-items: center;
 	}
 
 		#cta .inner header {
