@@ -33,6 +33,13 @@ body {
 	line-height: 1;
 }
 
+.row-reverse {
+	-moz-flex-direction: row-reverse;
+    -webkit-flex-direction: row-reverse;
+    -ms-flex-direction: row-reverse;
+    flex-direction: row-reverse;
+}
+
 ol, ul {
 	list-style: none;
 }
