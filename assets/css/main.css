@@ -3113,7 +3113,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			.spotlight .image {
-				width: 45%;
+				width: 50%;
 			}
 
 			.spotlight .content {
@@ -3165,7 +3165,7 @@ input, select, textarea {
 		}
 
 		.wrapper > .projects {
-			width: 100%;
+			width: 95%;
 			margin: 0 auto;
 		}
 
@@ -3180,7 +3180,7 @@ input, select, textarea {
 			@media screen and (max-width: 980px) {
 
 				.wrapper > .inner {
-					width: 100%;
+					width: 95%;
 				}
 
 			}
