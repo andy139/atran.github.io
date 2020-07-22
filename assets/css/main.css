@@ -2841,7 +2841,7 @@ input, select, textarea {
 	.skills {
 		font-size:100px;
 		text-align: left;
-		width: 100%
+		width: 100%;
 
 	}
 
@@ -3160,7 +3160,7 @@ input, select, textarea {
 	}
 
 		.wrapper > .inner {
-			width: 95%;
+			width: 75em;
 			margin: 0 auto;
 		}
 
